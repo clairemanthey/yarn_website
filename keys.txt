@@ -1,0 +1,7 @@
+Basic
+ Username:	read-614585022cfe7cecc3abece79f6e286f
+ Password:	9XW2wI2Mn5JhHnbYPnENlHPQKGPAHPy8UHOwFflT
+
+OAth
+Consumer key:	07f20fcddd16904721f46cacd02d0579
+Secret:	rVQq3Y7NzBNNEd5jw_N6niGPJyUKQ53yN6IBD5c8
